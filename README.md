@@ -1,6 +1,6 @@
-### Bienvenidoo a mi Repositorio de GitHub 👋
+### Bienvenido a mi Repositorio de GitHub 👋
 
-¡Hola! Soy CValera, Ingeniero Electrónico graduado desde 2018 y estoy emocionado de compartir contigo mi viaje mientras cambio de carrera y me adentro en el mundo del desarrollo de aplicaciones Android. A lo largo de los años, he estado dedicando tiempo a prepararme y aprender sobre desarrollo mobile, y en 2024, decidí dar el salto y comenzar una nueva carrera como desarrollador Android.
+¡Hola! Soy Carlos Valera, Ingeniero Electrónico graduado desde 2018 y estoy emocionado de compartir contigo mi viaje mientras cambio de carrera y me adentro en el mundo del desarrollo de aplicaciones Android. A lo largo de los años, he estado dedicando tiempo a prepararme y aprender sobre desarrollo mobile, y en 2024, decidí dar el salto y comenzar una nueva carrera como desarrollador Android.
 
 En este repositorio, compartiré proyectos, ejercicios y recursos relacionados con mi aprendizaje en el desarrollo de aplicaciones Android. Estoy comprometido a aprender y mejorar constantemente mis habilidades en esta área, y espero que este espacio sea útil tanto para mí como para otros que estén interesados en seguir un camino similar.
 
