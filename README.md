@@ -29,10 +29,10 @@ Este proyecto no solo sirve como una herramienta práctica para usuarios finales
 ![template](https://github.com/cvalera18/cvalera18/assets/57680708/ff9c98ae-e51c-4151-8e02-aacc010134d9) ![template (1)](https://github.com/cvalera18/cvalera18/assets/57680708/ac3b922f-8e61-49ab-8112-6af99b1211c9) ![template (2)](https://github.com/cvalera18/cvalera18/assets/57680708/f17bdce4-3dfe-4f89-a1c7-924b6d3f5199) ![template (3)](https://github.com/cvalera18/cvalera18/assets/57680708/29d5c322-db4f-466a-9622-9291994198f2)
 
 
-## [GameList](https://github.com/cvalera18/GameList?tab=readme-ov-file#gamelist)
+<!-- ## [GameList](https://github.com/cvalera18/GameList?tab=readme-ov-file#gamelist)
 GameList es una app en desarrollo en la cual practico e intento mejorarla poco a poco también para usarla como portafolio. 🚧
 
 La aplicación [GameList](https://github.com/cvalera18/GameList?tab=readme-ov-file#gamelist) te permite gestionar y organizar tus videojuegos favoritos de manera eficiente. Con GameList, puedes explorar una amplia variedad de videojuegos y mantener un registro detallado de tus preferencias y progreso en cada uno. Con características como la clasificación por estado (jugando, completado, abandonado, sin clasificar, pendiente) y la posibilidad de marcar tus juegos favoritos, GameList es la herramienta perfecta para cualquier entusiasta de los videojuegos. 🎮
 
-![Screenshot (12)](https://github.com/cvalera18/cvalera18/assets/57680708/8d95f6e6-a7f0-4861-8729-8eeb7dd9a9d0)
+![Screenshot (12)](https://github.com/cvalera18/cvalera18/assets/57680708/8d95f6e6-a7f0-4861-8729-8eeb7dd9a9d0) -->
 
