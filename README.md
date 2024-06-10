@@ -14,6 +14,8 @@ Otros perfiles:
 
 ### [Ludex](https://github.com/cvalera18/Ludex)
 
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.cvalera.ludex)
+
 ### [NotesApp](https://github.com/cvalera18/NotesApp)
 NotesApp es una aplicación Android dinámica y fácil de usar diseñada para la gestión eficiente de notas. Desarrollada con Kotlin, esta app permite a los usuarios manejar de manera intuitiva la creación, edición, y eliminación de notas personales. Destacando por su implementación de Clean Architecture y el patrón MVVM, NotesApp ofrece una experiencia de usuario óptima, manteniendo al mismo tiempo un código limpio y mantenible.
 
