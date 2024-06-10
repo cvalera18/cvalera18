@@ -1,17 +1,19 @@
-### Hola 👋, mi nombre es Carlos Valera
+# Hola 👋, mi nombre es Carlos Valera
 
-#### Sobre mi
+## Sobre mi:
 - 📲 Mobile developer
 - ⚡Ingeniero Electrónico
 
-Skills: ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+Tecnologías: ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-Otros perfiles: 
-<a href="https://itch.io/profile/cvalera" target="_blank">
-    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io">
-</a>
+Otros perfiles:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingcvalera/) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://itch.io/profile/cvalera)
 
-## [NotesApp](https://github.com/cvalera18/NotesApp)
+## Algunos proyectos:
+
+### [Ludex](https://github.com/cvalera18/Ludex)
+
+### [NotesApp](https://github.com/cvalera18/NotesApp)
 NotesApp es una aplicación Android dinámica y fácil de usar diseñada para la gestión eficiente de notas. Desarrollada con Kotlin, esta app permite a los usuarios manejar de manera intuitiva la creación, edición, y eliminación de notas personales. Destacando por su implementación de Clean Architecture y el patrón MVVM, NotesApp ofrece una experiencia de usuario óptima, manteniendo al mismo tiempo un código limpio y mantenible.
 
 Entre sus características se incluyen:
