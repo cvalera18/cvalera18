@@ -14,7 +14,19 @@ Otros perfiles:
 
 ### [Ludex](https://github.com/cvalera18/Ludex)
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.cvalera.ludex)
+Ya disponible en Gogle Play 👉🏽 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.cvalera.ludex) 👈🏽
+
+Ludex es una aplicación Android desarrollada utilizando Kotlin que permite a los usuarios gestionar una lista de juegos, marcándolos como favoritos, actualizando su estado y buscando títulos específicos.
+
+#### Características
+- 🎮 **Gestión de juegos:** Clasificar tus juegos favoritos por estado tales como: "Pendiente", Completado", "Jugando", "Abandonado", etc.
+- ⭐ **Favoritos:** Marcar juegos como favoritos para un acceso rápido.
+- 🔎 **Búsqueda de juegos:** Filtrar juegos por título.
+- 📦 **Persistencia de datos local:** Permite al usuario consultar sus listas sin conexión a internet.
+- ☁️ **Persistencia de datos remota:** Guarda tus listas de juegos en la nube asignados a tu usuario.
+- 🎨 **Diseño responsivo:** Interfaz adaptada a diferentes tamaños de pantalla y orientaciones.
+
+![Google Pixel 4 XL Presentation (2)](https://github.com/cvalera18/cvalera18/assets/57680708/9ec5b514-18fd-4604-a5d4-bc1cdcbb4c46)
 
 ### [NotesApp](https://github.com/cvalera18/NotesApp)
 NotesApp es una aplicación Android dinámica y fácil de usar diseñada para la gestión eficiente de notas. Desarrollada con Kotlin, esta app permite a los usuarios manejar de manera intuitiva la creación, edición, y eliminación de notas personales. Destacando por su implementación de Clean Architecture y el patrón MVVM, NotesApp ofrece una experiencia de usuario óptima, manteniendo al mismo tiempo un código limpio y mantenible.
